@@ -1,0 +1,6 @@
+# Python dependencies for Gift Code Generator
+# No external dependencies required - uses only standard library
+
+# If you want to add GUI improvements in the future:
+# tkinter - included with Python (no pip install needed)
+

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "gift_20251109225819",
+    "code": "12",
+    "name": "12",
+    "money": 10000,
+    "diamonds": 10000,
+    "stars": 10000,
+    "emeralds": 10000,
+    "is_used": false,
+    "created_at": "2025-11-09T22:58:19.198597",
+    "encoded": "ewogICJpZCI6ICJnaWZ0XzIwMjUxMTA5MjI1ODE5IiwKICAiY29kZSI6ICIxMiIsCiAgIm5hbWUiOiAiMTIiLAogICJtb25leSI6IDEwMDAwLAogICJkaWFtb25kcyI6IDEwMDAwLAogICJzdGFycyI6IDEwMDAwLAogICJlbWVyYWxkcyI6IDEwMDAwLAogICJpc191c2VkIjogZmFsc2UsCiAgImNyZWF0ZWRfYXQiOiAiMjAyNS0xMS0wOVQyMjo1ODoxOS4xOTg1OTciCn0="
+  },
+  {
+    "id": "gift_20251109225832",
+    "code": "12",
+    "name": "12",
+    "money": 10000,
+    "diamonds": 10000,
+    "stars": 10000,
+    "emeralds": 10000,
+    "is_used": false,
+    "created_at": "2025-11-09T22:58:32.319186",
+    "encoded": "ewogICJpZCI6ICJnaWZ0XzIwMjUxMTA5MjI1ODMyIiwKICAiY29kZSI6ICIxMiIsCiAgIm5hbWUiOiAiMTIiLAogICJtb25leSI6IDEwMDAwLAogICJkaWFtb25kcyI6IDEwMDAwLAogICJzdGFycyI6IDEwMDAwLAogICJlbWVyYWxkcyI6IDEwMDAwLAogICJpc191c2VkIjogZmFsc2UsCiAgImNyZWF0ZWRfYXQiOiAiMjAyNS0xMS0wOVQyMjo1ODozMi4zMTkxODYiCn0="
+  },
+  {
+    "id": "gift_20251109230346",
+    "code": "12",
+    "name": "12",
+    "money": 10000,
+    "diamonds": 10000,
+    "stars": 10000,
+    "emeralds": 10000,
+    "is_used": false,
+    "created_at": "2025-11-09T23:03:46.607550",
+    "encoded": "ewogICJpZCI6ICJnaWZ0XzIwMjUxMTA5MjMwMzQ2IiwKICAiY29kZSI6ICIxMiIsCiAgIm5hbWUiOiAiMTIiLAogICJtb25leSI6IDEwMDAwLAogICJkaWFtb25kcyI6IDEwMDAwLAogICJzdGFycyI6IDEwMDAwLAogICJlbWVyYWxkcyI6IDEwMDAwLAogICJpc191c2VkIjogZmFsc2UsCiAgImNyZWF0ZWRfYXQiOiAiMjAyNS0xMS0wOVQyMzowMzo0Ni42MDc1NTAiCn0="
+  },
+  {
+    "id": "gift_20251109230355",
+    "code": "122",
+    "name": "122",
+    "money": 10000,
+    "diamonds": 10000,
+    "stars": 10000,
+    "emeralds": 10000,
+    "is_used": false,
+    "created_at": "2025-11-09T23:03:55.184724",
+    "encoded": "ewogICJpZCI6ICJnaWZ0XzIwMjUxMTA5MjMwMzU1IiwKICAiY29kZSI6ICIxMjIiLAogICJuYW1lIjogIjEyMiIsCiAgIm1vbmV5IjogMTAwMDAsCiAgImRpYW1vbmRzIjogMTAwMDAsCiAgInN0YXJzIjogMTAwMDAsCiAgImVtZXJhbGRzIjogMTAwMDAsCiAgImlzX3VzZWQiOiBmYWxzZSwKICAiY3JlYXRlZF9hdCI6ICIyMDI1LTExLTA5VDIzOjAzOjU1LjE4NDcyNCIKfQ=="
+  },
+  {
+    "id": "gift_20251110001308",
+    "code": "1223",
+    "name": "1223",
+    "money": 10000,
+    "diamonds": 10000,
+    "stars": 10000,
+    "emeralds": 10000,
+    "is_used": false,
+    "created_at": "2025-11-10T00:13:08.715721",
+    "encoded": "ewogICJpZCI6ICJnaWZ0XzIwMjUxMTEwMDAxMzA4IiwKICAiY29kZSI6ICIxMjIzIiwKICAibmFtZSI6ICIxMjIzIiwKICAibW9uZXkiOiAxMDAwMCwKICAiZGlhbW9uZHMiOiAxMDAwMCwKICAic3RhcnMiOiAxMDAwMCwKICAiZW1lcmFsZHMiOiAxMDAwMCwKICAiaXNfdXNlZCI6IGZhbHNlLAogICJjcmVhdGVkX2F0IjogIjIwMjUtMTEtMTBUMDA6MTM6MDguNzE1NzIxIgp9"
+  },
+  {
+    "id": "gift_20251110001552",
+    "code": "12234",
+    "name": "12234",
+    "money": 10000,
+    "diamonds": 10000,
+    "stars": 10000,
+    "emeralds": 10000,
+    "is_used": false,
+    "created_at": "2025-11-10T00:15:52.505463",
+    "encoded": "ewogICJpZCI6ICJnaWZ0XzIwMjUxMTEwMDAxNTUyIiwKICAiY29kZSI6ICIxMjIzNCIsCiAgIm5hbWUiOiAiMTIyMzQiLAogICJtb25leSI6IDEwMDAwLAogICJkaWFtb25kcyI6IDEwMDAwLAogICJzdGFycyI6IDEwMDAwLAogICJlbWVyYWxkcyI6IDEwMDAwLAogICJpc191c2VkIjogZmFsc2UsCiAgImNyZWF0ZWRfYXQiOiAiMjAyNS0xMS0xMFQwMDoxNTo1Mi41MDU0NjMiCn0="
+  },
+  {
+    "id": "gift_20251110001756",
+    "code": "1",
+    "name": "1",
+    "money": 10000,
+    "diamonds": 10000,
+    "stars": 10000,
+    "emeralds": 10000,
+    "is_used": false,
+    "created_at": "2025-11-10T00:17:56.137781",
+    "encoded": "ewogICJpZCI6ICJnaWZ0XzIwMjUxMTEwMDAxNzU2IiwKICAiY29kZSI6ICIxIiwKICAibmFtZSI6ICIxIiwKICAibW9uZXkiOiAxMDAwMCwKICAiZGlhbW9uZHMiOiAxMDAwMCwKICAic3RhcnMiOiAxMDAwMCwKICAiZW1lcmFsZHMiOiAxMDAwMCwKICAiaXNfdXNlZCI6IGZhbHNlLAogICJjcmVhdGVkX2F0IjogIjIwMjUtMTEtMTBUMDA6MTc6NTYuMTM3NzgxIgp9"
+  },
+  {
+    "id": "gift_20251110003912",
+    "code": "14",
+    "name": "14",
+    "money": 10000,
+    "diamonds": 10000,
+    "stars": 10000,
+    "emeralds": 10000,
+    "is_used": false,
+    "created_at": "2025-11-10T00:39:12.236936",
+    "encoded": "ewogICJpZCI6ICJnaWZ0XzIwMjUxMTEwMDAzOTEyIiwKICAiY29kZSI6ICIxNCIsCiAgIm5hbWUiOiAiMTQiLAogICJtb25leSI6IDEwMDAwLAogICJkaWFtb25kcyI6IDEwMDAwLAogICJzdGFycyI6IDEwMDAwLAogICJlbWVyYWxkcyI6IDEwMDAwLAogICJpc191c2VkIjogZmFsc2UsCiAgImNyZWF0ZWRfYXQiOiAiMjAyNS0xMS0xMFQwMDozOToxMi4yMzY5MzYiCn0="
+  }
+]
